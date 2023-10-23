@@ -32,7 +32,7 @@ You can support this project by just leaving a star! ⭐
 
 <h2>Known issues ⚙️</h2>
 
-`None`
+`readme.md` file is not formatted correctly on github
 
 ---
 
