@@ -14,6 +14,7 @@
 ---
 
 <h2>How to use 📝</h2>
+
 1. Create a free account at <a href="https://ipstack.com/">ipstack.com</a>
 2. Copy your api key
 3. Open the `scanner.py` file
